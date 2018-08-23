@@ -8,11 +8,11 @@ Exploratory analysis of Austin Animal Center Shelter dataset using python 3.6. T
 
 I wanted to do exploratory analysis on something that interested me, and found this dataset for the Austin Animal Shelter. I think what animal shelters do is great, and this one in particular is a no-kill shelter, that had some data on Pit Bulls so I decided to explore it a bit. Unlike many, I want to adopt a Pit Bull because after living with one, I think they are great dogs. One hypothesis I wanted to test was that Pit Bulls are, in general, less desired than other dog breeds. I think this bad reputation is because there are a number of myths and stereotypes about "pitbull-type" dogs that are either anecdotal and misleading or entirely false. <span style="color:blue"><b> For facts and reliable information about Pit Bull type dogs, refer to https://www.pitbullinfo.org/.</b></span>
 
-### WHat is the distrubution of Animal type at the shelter?
+### What is the distrubution of Animal type at the shelter?
 
 As expected, dogs and cats are the majority.  Dogs with ~57% an Cats with ~37% for a combined 96% of the total. The other 6% being birds and other types of animals.
 
-![Image of Distribution of Animal Type](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_pM.png)
+![Image of Distribution of Animal Type](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/10_Anymal_Type_Distribution_ALL.png)
 
 ### Which day of the year has the least/most outcomes?
 
