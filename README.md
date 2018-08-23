@@ -1,4 +1,4 @@
-# Exploratory-Analysis-Austin-Animal-Shleter-Center
+# Exploratory-Analysis-Austin-Animal-Shelter-Center
 
 Exploratory analysis of Austin Animal Center Shelter dataset using python 3.6. The Austin Animal Center is the largest no-kill animal shelter in the United States that provides care and shelter to over 18,000 animals each year. The time frame for all visualizations is from 2013 Q4 to 2018 Q1.
 
