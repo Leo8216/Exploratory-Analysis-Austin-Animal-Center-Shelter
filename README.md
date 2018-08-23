@@ -19,7 +19,7 @@ As expected, dogs and cats are the majority.  Dogs with ~57% an Cats with ~37% f
 We can see that December 25th (Christmas day) is the one with the least number of outcomes for all years (2013 to 2018). This makes sense as adopting an animal may not be in the top priorities for Christmas Day. Please note that Adoption is the most significant contributor to the number of outcomes.
 August 19th is the day with the most Outcomes - with most being Adoption, it is a great day for pets. Also notice that July has several days with a high number of outcomes. After a little bit of research, I found out that some cities waive adoptions fees during July as they prepare for shelters to be filled beyond capacity with lost animals who become frightened by 4th of July fireworks and run away.
 
-![Image of Count of Outcomes by Month and Day of Year](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_pM.png)
+![Image of Count of Outcomes by Month and Day of Year](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/9_Count_of_Outcomes_by_Month_and_Day_of_Year_All_Years.png)
 
 ### What Animals are under the "Other" Animal type category? Which is their most likely outcome?
 
