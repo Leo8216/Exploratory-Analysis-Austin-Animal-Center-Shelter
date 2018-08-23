@@ -45,11 +45,11 @@ Pit Bull vs. Other Breeds Insigths:
    
 Findings 1 and 5 validate the hypothesis that Pit Bulls are less desired than other Dog breeds. I think this bad reputation is because there are a number of myths and stereotypes about "pitbull-type" dogs that are either anecdotal and misleading or entirely false. <span style="color:blue"><b> For facts and reliable information about Pit Bull type dogs, refer to https://www.pitbullinfo.org/.</b></span> On the flip side, from findings 2 and 3 we can imply that those who took a chance on having a Pit Bull are more attached to them, because they are indeed amazing dogs. 
 
-![Image of Pit Bull vs. Other Breeds radar](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Gun_Kills_vs_Gun_Laws.PNG)
+![Image of Pit Bull vs. Other Breeds radar](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/17_Pit_Bull_vs_Other_Breeds_radar.png)
 
 ### Closing Remarks
 
-<b> *If you are considering getting a pet, please consider adopting.  If getting a dog, I strongly suggest you read the facts in link above before swinging by an Animal Shelter, so that you make an informed decision. Pit Bull or not (although, the numbers show Pit Bull owners are more attached to them, wonder why?), as long as you adopt, you will potentially be saving a life that will bring a lot of joy to yours.*</b>
+<b> If you are considering getting a pet, please consider adopting.  If getting a dog, I strongly suggest you read the facts in link above before swinging by an Animal Shelter, so that you make an informed decision. Pit Bull or not (although, the numbers show Pit Bull owners are more attached to them, wonder why?), as long as you adopt, you will potentially be saving a life that will bring a lot of joy to yours.</b>
 
 ## Required Imports
 This was run in Python 3.6
