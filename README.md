@@ -26,11 +26,12 @@ As expected, dogs and cats are the majority.  Dogs with ~57% an Cats with ~37% f
 From donutplot on left - "Top 12 - Other Animal Type":
 * Bats and Bats mixes make up more than 50% of the Top 12 in the Other animal type. I was expecting Rabbit to be the one with the majority. 
 * Skunk and Guinea Pigs made it to the top 12... impressive. Not sure if I ever met anyone that has one.
+
 From donutplot on right: "Outcome - Other Animal Type":
 * Most of this other interesting animals, 71.9%, end up with an outcome of Euthanasia. 
 * Only 5% of them are adopted.
 
-![Image of Other Animal type Distribution and Outcomes](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Location_of_top_50_impactful_acts.png)
+![Image of Other Animal type Distribution and Outcomes](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/11_Other_Animal_Type_Top12_%26_Outcome.png)
 
 ### Are Pit Bull or Pit Bull Mix dogs less desired than other dog breeds?
 
