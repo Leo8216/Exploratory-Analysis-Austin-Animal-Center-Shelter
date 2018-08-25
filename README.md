@@ -51,6 +51,8 @@ Findings 1 and 5 validate the hypothesis that Pit Bulls are less desired than ot
 
 If you are considering getting a pet, please consider adopting.  If getting a dog, I strongly suggest you read the facts in link above before swinging by an Animal Shelter, so that you make an informed decision. Pit Bull or not (although, the numbers show Pit Bull owners are more attached to them, wonder why?), as long as you adopt, you will potentially be saving a life that will bring a lot of joy to yours.
 
+![Image of Pit Bull Pup](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/pit_bull_pup.jpg)
+
 ## Required Imports
 This was run in Python 3.6
 ```
