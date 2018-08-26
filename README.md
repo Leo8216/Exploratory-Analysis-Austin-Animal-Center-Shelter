@@ -69,7 +69,7 @@ pd.options.mode.chained_assignment = None
 
 ## Dataset
 
-* **Austin Animal Shlter Center** [link to Kaggle dataset.](https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes) The data contains intakes and outcomes of animals entering the Austin Animal Center from the beginning of October 2013 to the present day. The datasets are also freely available on the Socrata Open Data Access API and are updated daily. The data presented here is only possible through the hard work and dedication of the Austin Animal Center in saving and caring for animal lives.
+* **Austin Animal Shelter Center** [link to Kaggle dataset.](https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes) The data contains intakes and outcomes of animals entering the Austin Animal Center from the beginning of October 2013 to the present day. The datasets are also freely available on the Socrata Open Data Access API and are updated daily. The data presented here is only possible through the hard work and dedication of the Austin Animal Center in saving and caring for animal lives.
 
 ## Author
 
