@@ -54,6 +54,7 @@ If you are considering getting a pet, please consider adopting.  If getting a do
 ![Image of Pit Bull Pup](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/pit_bull_pup.jpg)
 
 ## Required Imports
+
 This was run in Python 3.6
 ```
 import pandas as pd
